@@ -1,0 +1,18 @@
+.test {
+	background: #FFF7C4;
+	height: auto;
+	clear: both;
+	padding: 15px;
+	outline: 1px solid green;
+}
+.nav li a {
+	display: block !important;
+} 
+.nav li a:hover {
+	background-color: black !important;
+}
+#googleMap {
+	margin: 0 auto;
+	height: 400px;
+	border: 1px solid green;
+}

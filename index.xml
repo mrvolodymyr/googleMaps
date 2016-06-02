@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<items>
+		<item id="cityHall" lat="48.922725" lng="24.710442">
+			<description>city Hall of Ivano-Frankivsk</description>
+			<name>Ратуша</name>
+			<link>
+				http://rk-ukraina.com/DM/background/IF.jpg
+			</link>
+		</item>
+		<item id="ityLake" lat="48.914867" lng="24.691805">
+			<description>city lake of Ivano-Frankivsk</description>
+			<name>Міське озеро</name>
+			<link>
+				http://eco-turizm.net/uploads/2013/11/Gorodskoe-ozero-Ivano-Frankovsk-Ukraina.jpg
+			</link>
+		</item>
+		<item id="railwayStation" lat="48.925231" lng="24.723443">
+			<description>railway station of Ivano-Frakivsk</description>
+			<name>Вокзал</name>
+			<link>
+				http://uticket.ua/ufiles/News_L/Frankovsk_L.png
+			</link>
+		</item>
+		<item id="hotelNadiya" lat="48.917786" lng="24.717308">
+			<description>the best known hotel of Ivan-Frankivsk</description>
+			<name>готель "Надія"</name>
+			<link>
+				http://karpaty.nezabarom.ua/img/objects/ce3fbba755.jpg
+			</link>
+		</item>
+		<item id="undredMeterSteet" lat="48.919621" lng="24.711522">
+			<description>the best known street of Ivao-Frankivsk</description>
+			<name>Стометрівка</name>
+			<link>
+				http://www.uamodna.com/assets/photos/image/ua0wyzbh/fullsize.jpg
+			</link>
+		</item>
+	</items>	
+</root>
